@@ -1,69 +1,89 @@
-### Project Description:
-This project involves analyzing sales data from a retail company to derive actionable insights and create impactful visualizations using SQL, Python, and Google Looker Studio. The dataset comprises multiple tables (customer_detail, order_detail, sku_detail, and payment_detail) representing customers, orders, products, and payments.
+# 📊 Sales Performance & Campaign Analysis Dashboard
 
-<p style="margin-bottom: 3rem;">
-  <img width="1505" height="846" alt="Campaign Trend Dashboard"
-       src="https://github.com/user-attachments/assets/c10d9cce-0fad-4e9c-9e90-26a87bc89bcc" />
-</p>
+## 📌 Project Overview
+This project analyzes retail sales data to derive actionable business insights and present them through an interactive dashboard built using Google Looker Studio.
 
-<p style="margin-bottom: 3rem;">
-  <img width="1498" height="845" alt="Sales Value vs Net Profit"
-       src="https://github.com/user-attachments/assets/822f28cd-e7b2-4fed-9c66-3084d884d399" />
-</p>
+The analysis focuses on sales performance, profitability, customer behavior, product trends, and campaign effectiveness using SQL and Python for data processing.
 
-<p style="margin-bottom: 3rem;">
-  <img width="336" height="163" alt="KPI Summary"
-       src="https://github.com/user-attachments/assets/bb379f22-9b37-4340-8a19-7dd7e43a8d98" />
-</p>
+---
 
-<p style="margin-bottom: 3rem;">
-  <img width="739" height="430" alt="Customer Analysis"
-       src="https://github.com/user-attachments/assets/7ea28680-2b73-4a0e-bb96-ae95189757b6" />
-</p>
+## 🎯 Business Objectives
+- Understand overall sales and profit trends
+- Identify high-performing and underperforming product categories
+- Analyze the impact of discounts on profitability
+- Compare customer purchasing behavior across time
+- Detect checkout drop-offs and sales patterns
 
-<p style="margin-bottom: 3rem;">
-  <img width="492" height="357" alt="Product Performance"
-       src="https://github.com/user-attachments/assets/1ba7118f-5425-40bc-bdb7-d3042504ef68" />
-</p>
+---
 
-<p style="margin-bottom: 3rem;">
-  <img width="748" height="490" alt="Sales by Category"
-       src="https://github.com/user-attachments/assets/f96785e0-4a50-466c-bb4c-4b4472344860" />
-</p>
+## ❓ Key Business Questions Answered
+- How do sales value, net profit, and AOV change over time?
+- Which product categories contribute most to revenue and profit?
+- How do discounts affect net profit?
+- Are there significant differences between weekday and weekend sales?
+- How many customers abandon checkout without payment?
 
-<p style="margin-bottom: 3rem;">
-  <img width="312" height="277" alt="Payment Methods"
-       src="https://github.com/user-attachments/assets/731e6d7b-3bec-4ec6-802d-90c3f03d6924" />
-</p>
+---
 
-<p style="margin-bottom: 3rem;">
-  <img width="685" height="396" alt="Regional Sales"
-       src="https://github.com/user-attachments/assets/85372013-2470-4dfa-96a3-3fd7798401e7" />
-</p>
+## 🧠 Analysis & Insights
+- Sales and profit trends show seasonal peaks and dips across 2021–2022
+- Certain categories drive high revenue but lower profit margins
+- Heavy discounting increases sales volume but reduces net profit
+- Weekday sales consistently outperform weekend sales
+- A noticeable number of customers abandon checkout, indicating funnel leakage
 
-<p style="margin-bottom: 3rem;">
-  <img width="311" height="38" alt="Filters"
-       src="https://github.com/user-attachments/assets/5c9cecfd-68f9-487a-a751-c5192a9f3a77" />
-</p>
+---
 
-<p style="margin-bottom: 3rem;">
-  <img width="348" height="95" alt="Legend"
-       src="https://github.com/user-attachments/assets/29750306-33f3-413c-b70d-c216c1ef85b9" />
-</p>
+## 📊 Dashboard Features
+- Campaign trend analysis
+- Sales value vs net profit vs AOV comparison
+- KPI summary metrics
+- Customer and product performance analysis
+- Category-wise and regional sales
+- Payment method analysis
+- Interactive filters for dynamic exploration
 
-<p style="margin-bottom: 3rem;">
-  <img width="672" height="400" alt="Order Trends"
-       src="https://github.com/user-attachments/assets/b0529810-4d8a-4f73-8bb8-f49b5b24b790" />
-</p>
+---
 
-<p style="margin-bottom: 3rem;">
-  <img width="429" height="111" alt="Summary Metrics"
-       src="https://github.com/user-attachments/assets/2cabc5d7-a34b-48b6-ba00-cad5750bd668" />
-</p>
+## 🛠️ Tools & Technologies
+- Google Looker Studio
+- SQL
+- Python (Pandas, Matplotlib)
+- CSV-based relational datasets
+
+---
+
+## 📁 Dataset Structure
+- `customer_detail` – Customer information
+- `order_detail` – Order-level transactions
+- `sku_detail` – Product details
+- `payment_detail` – Payment information
+
+---
+
+## 🖼️ Dashboard Preview
+> Screenshots below provide a static preview of the interactive dashboard.
+
+<img width="1505" height="846" alt="image" src="https://github.com/user-attachments/assets/f1a0d712-0ebe-4ff0-a484-1fdd98f00a23" />
 
 
+---
 
+## 🔗 How to View
+- Open `Sales_Dashboard.pdf` for a static version
+- View screenshots in this repository
+- Dataset can be connected to Google Looker Studio for live interaction
 
+---
 
+## 🚀 Future Improvements
+- Automate data refresh
+- Add cohort-based customer retention analysis
+- Integrate more advanced funnel analysis
+- Deploy dashboard with live data connection
 
+---
 
+## 📎 Note
+This project was created as a portfolio project to demonstrate real-world data analysis and business intelligence skills.
+<img width="1505" height="846" alt="image" src="https://github.com/user-attachments/assets/d68e9173-a903-4971-866c-6f5404780db2" />

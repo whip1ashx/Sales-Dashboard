@@ -86,4 +86,3 @@ The analysis focuses on sales performance, profitability, customer behavior, pro
 
 ## 📎 Note
 This project was created as a portfolio project to demonstrate real-world data analysis and business intelligence skills.
-<img width="1505" height="846" alt="image" src="https://github.com/user-attachments/assets/d68e9173-a903-4971-866c-6f5404780db2" />
